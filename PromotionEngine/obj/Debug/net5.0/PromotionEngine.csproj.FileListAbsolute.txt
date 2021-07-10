@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\PromotionEngine\PromotionEngine\PromotionEngine\bin\Debug\net5.0\PromotionEngine.exe
+C:\Users\admin\Desktop\PromotionEngine\PromotionEngine\PromotionEngine\bin\Debug\net5.0\PromotionEngine.deps.json
+C:\Users\admin\Desktop\PromotionEngine\PromotionEngine\PromotionEngine\bin\Debug\net5.0\PromotionEngine.runtimeconfig.json
+C:\Users\admin\Desktop\PromotionEngine\PromotionEngine\PromotionEngine\bin\Debug\net5.0\PromotionEngine.runtimeconfig.dev.json
+C:\Users\admin\Desktop\PromotionEngine\PromotionEngine\PromotionEngine\bin\Debug\net5.0\PromotionEngine.dll
+C:\Users\admin\Desktop\PromotionEngine\PromotionEngine\PromotionEngine\bin\Debug\net5.0\ref\PromotionEngine.dll
+C:\Users\admin\Desktop\PromotionEngine\PromotionEngine\PromotionEngine\bin\Debug\net5.0\PromotionEngine.pdb
+C:\Users\admin\Desktop\PromotionEngine\PromotionEngine\PromotionEngine\obj\Debug\net5.0\PromotionEngine.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\PromotionEngine\PromotionEngine\PromotionEngine\obj\Debug\net5.0\PromotionEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\PromotionEngine\PromotionEngine\PromotionEngine\obj\Debug\net5.0\PromotionEngine.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\PromotionEngine\PromotionEngine\PromotionEngine\obj\Debug\net5.0\PromotionEngine.AssemblyInfo.cs
+C:\Users\admin\Desktop\PromotionEngine\PromotionEngine\PromotionEngine\obj\Debug\net5.0\PromotionEngine.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\PromotionEngine\PromotionEngine\PromotionEngine\obj\Debug\net5.0\PromotionEngine.dll
+C:\Users\admin\Desktop\PromotionEngine\PromotionEngine\PromotionEngine\obj\Debug\net5.0\ref\PromotionEngine.dll
+C:\Users\admin\Desktop\PromotionEngine\PromotionEngine\PromotionEngine\obj\Debug\net5.0\PromotionEngine.pdb
+C:\Users\admin\Desktop\PromotionEngine\PromotionEngine\PromotionEngine\obj\Debug\net5.0\PromotionEngine.genruntimeconfig.cache

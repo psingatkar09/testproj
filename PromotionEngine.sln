@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromotionEngine", "PromotionEngine\PromotionEngine.csproj", "{5D76B557-966E-4B98-8384-5B22892D6FF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D76B557-966E-4B98-8384-5B22892D6FF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D76B557-966E-4B98-8384-5B22892D6FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D76B557-966E-4B98-8384-5B22892D6FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D76B557-966E-4B98-8384-5B22892D6FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7892D90-3A5B-4FA4-B34C-D27DEA7D73CB}
+	EndGlobalSection
+EndGlobal
